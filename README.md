@@ -7,19 +7,24 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Git](#git)
+* [Vim](#vim)
 
 ---
 
 ### Git
 
 - [Commit Part of File to Git](git/commit-part-of-file.md)
+
+### Vim
+
+- [Show Special Characters](vim/show-special-characters.md)
 
 ## Usage
 
