@@ -7,20 +7,30 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_2 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Cmake](#cmake)
 * [Git](#git)
+* [Teamcity](#teamcity)
 * [Vim](#vim)
 
 ---
 
+### Cmake
+
+- [Forcing Cmake To Download From Artifactory](cmake/force_artifactory.md)
+
 ### Git
 
 - [Commit Part of File to Git](git/commit-part-of-file.md)
+
+### Teamcity
+
+- [Cancelling Jobs](teamcity/cancel_jobs.md)
 
 ### Vim
 
