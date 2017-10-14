@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_4 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _4 TILs and counting..._
 
 * [Cmake](#cmake)
 * [Git](#git)
+* [Markdown](#markdown)
 * [Teamcity](#teamcity)
 * [Vim](#vim)
 
@@ -27,6 +28,11 @@ _4 TILs and counting..._
 ### Git
 
 - [Commit Part of File to Git](git/commit-part-of-file.md)
+
+### Markdown
+
+- [Formatting code in Pythonista Cafe](markdown/code-formatting.md)
+- [Linking to a section in the same document](markdown/in-doc-links.md)
 
 ### Teamcity
 
