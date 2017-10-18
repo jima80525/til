@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _6 TILs and counting..._
 
 * [Cmake](#cmake)
 * [Git](#git)
+* [Linux](#linux)
 * [Markdown](#markdown)
 * [Teamcity](#teamcity)
 * [Vim](#vim)
@@ -28,6 +29,10 @@ _6 TILs and counting..._
 ### Git
 
 - [Commit Part of File to Git](git/commit-part-of-file.md)
+
+### Linux
+
+- [Enabling core files on Centos](linux/enable-cores.md)
 
 ### Markdown
 
