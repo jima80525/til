@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _9 TILs and counting..._
 ### Linux
 
 - [Enabling core files on Centos](linux/enable-cores.md)
+- [Make clamscan or other high-cpu-load process play nice](linux/make-clamscan-more-responsive.md)
 
 ### Markdown
 
