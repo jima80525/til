@@ -76,9 +76,13 @@ def get_tils(category):
     titles = []
     for filename in til_files:
         fullname = os.path.join(category, filename)
+        # working on issue with windows.  If you run the script on a windows
+        # system, os.path.join will (correctly) use \, but the markdown system
+        # really wants that separator to be /.
+        markdown_name = category + '/' + filename
         if (os.path.isfile(fullname)) and fullname.endswith('.md'):
             title = get_title(fullname)
-            titles.append((title, fullname))
+            titles.append((title, markdown_name))
     return titles
 
 
