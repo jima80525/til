@@ -7,13 +7,14 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Cmake](#cmake)
+* [Firefox](#firefox)
 * [Git](#git)
 * [Linux](#linux)
 * [Markdown](#markdown)
@@ -25,6 +26,10 @@ _10 TILs and counting..._
 ### Cmake
 
 - [Forcing Cmake To Download From Artifactory](cmake/force_artifactory.md)
+
+### Firefox
+
+- [Open links is a new background tab](firefox/fix-tab-behavior.md)
 
 ### Git
 
