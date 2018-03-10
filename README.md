@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -34,6 +34,7 @@ _11 TILs and counting..._
 ### Git
 
 - [Commit Part of File to Git](git/commit-part-of-file.md)
+- [Create a Github repo from the command line](git/create-github-repo-command-line.md)
 
 ### Linux
 
