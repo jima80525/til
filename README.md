@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -54,6 +54,7 @@ _12 TILs and counting..._
 
 - [Create Helptags for new bundle](vim/create-helptags.md)
 - [Open File Under Cursor](vim/open-file-under-cursor.md)
+- [Reload vimrc File Without Restarting](vim/reload-vim-config.md)
 - [Show Special Characters](vim/show-special-characters.md)
 
 ## Usage
