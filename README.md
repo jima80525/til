@@ -7,13 +7,14 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Cmake](#cmake)
+* [Cpp](#cpp)
 * [Firefox](#firefox)
 * [Git](#git)
 * [Linux](#linux)
@@ -26,6 +27,10 @@ _13 TILs and counting..._
 ### Cmake
 
 - [Forcing Cmake To Download From Artifactory](cmake/force_artifactory.md)
+
+### Cpp
+
+- [Measuring the time a function call takes](cpp/timing_function.md)
 
 ### Firefox
 
