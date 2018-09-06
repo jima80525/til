@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _16 TILs and counting..._
 * [Git](#git)
 * [Linux](#linux)
 * [Markdown](#markdown)
+* [Pelco](#pelco)
 * [Teamcity](#teamcity)
 * [Vim](#vim)
 
@@ -52,6 +53,10 @@ _16 TILs and counting..._
 
 - [Formatting code in Pythonista Cafe](markdown/code-formatting.md)
 - [Linking to a section in the same document](markdown/in-doc-links.md)
+
+### Pelco
+
+- [Address for the internal SMTP server](pelco/internal_smtp.md)
 
 ### Teamcity
 
