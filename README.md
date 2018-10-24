@@ -59,6 +59,7 @@ _19 TILs and counting..._
 ### Pelco
 
 - [Address for the internal SMTP server](pelco/internal_smtp.md)
+- [Fixing the "Another omverse is starting" error](pelco/another_omverse_is_starting.md)
 
 ### Teamcity
 
