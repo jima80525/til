@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -49,6 +49,7 @@ _18 TILs and counting..._
 - [Enabling core files on Centos](linux/enable-cores.md)
 - [Finding Files By Date and Deleting Them](linux/find-and-delete.md)
 - [Make clamscan or other high-cpu-load process play nice](linux/make-clamscan-more-responsive.md)
+- [Removing old Kernels from Boot Partition](linux/boot-partition-full.md)
 
 ### Markdown
 
