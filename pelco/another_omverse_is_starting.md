@@ -17,3 +17,5 @@ Once all the omverse processes have been killed, remove the lock files:
 $ cd /var/run/
 $ sudo rm omverse.*
 ```
+
+Then run `clean_omverse_mounts` until all wormhole mounts are removed.
