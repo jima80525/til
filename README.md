@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_19 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -53,6 +53,7 @@ _19 TILs and counting..._
 
 ### Markdown
 
+- [Creating Footnotes in Markdown](markdown/footnotes.md)
 - [Formatting code in Pythonista Cafe](markdown/code-formatting.md)
 - [Linking to a section in the same document](markdown/in-doc-links.md)
 
