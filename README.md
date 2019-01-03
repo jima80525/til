@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _21 TILs and counting..._
 * [Git](#git)
 * [Linux](#linux)
 * [Markdown](#markdown)
+* [Misc](#misc)
 * [Pelco](#pelco)
 * [Teamcity](#teamcity)
 * [Vim](#vim)
@@ -56,6 +57,10 @@ _21 TILs and counting..._
 - [Creating Footnotes in Markdown](markdown/footnotes.md)
 - [Formatting code in Pythonista Cafe](markdown/code-formatting.md)
 - [Linking to a section in the same document](markdown/in-doc-links.md)
+
+### Misc
+
+- [Convert an iTunes Podcast feed to RSS](misc/itunes_feed_to_rss.md)
 
 ### Pelco
 
