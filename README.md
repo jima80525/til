@@ -23,6 +23,7 @@ _23 TILs and counting..._
 * [Pelco](#pelco)
 * [Teamcity](#teamcity)
 * [Vim](#vim)
+* [Vscode](#vscode)
 
 ---
 
@@ -78,6 +79,10 @@ _23 TILs and counting..._
 - [Open File Under Cursor](vim/open-file-under-cursor.md)
 - [Reload vimrc File Without Restarting](vim/reload-vim-config.md)
 - [Show Special Characters](vim/show-special-characters.md)
+
+### Vscode
+
+- [Tips and Tricks for VsCode](vscode/tips-and-tricks.md)
 
 ## Usage
 
