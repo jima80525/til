@@ -6,6 +6,10 @@
 * `Alt-up/down` moves current line up or down
 * `ctrl-shift-up/down` adds new cursor above/below
 * `ctrl-L` - cursor on all occurrences of this word
+* `ctrl-F2` - same.
+* `ctrl-alt--` - go to previous position
+* `ctrl-click` - extra cursor at click point (note:modified editor.multiCursorModifier)
+* `F2` - rename (couldn't get to work?)
 * `gd` jump to definition
 * `gq` - on a visual selection reflow and wordwrap blocks of text, preserving commenting style. Great for formatting documentation comments.
 * `gb` - adds another cursor on the next word it finds which is the same as the word under the cursor.
