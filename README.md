@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
@@ -81,6 +81,7 @@ _26 TILs and counting..._
 - [Open File Under Cursor](vim/open-file-under-cursor.md)
 - [Reload vimrc File Without Restarting](vim/reload-vim-config.md)
 - [Show Special Characters](vim/show-special-characters.md)
+- [Using regex matches in EX mode](vim/ex-regex.md)
 
 ### Vscode
 
